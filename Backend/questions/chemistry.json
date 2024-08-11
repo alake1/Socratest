@@ -1,0 +1,211 @@
+[
+    {
+        "question": "What is the oxidation state of sulfur in the compound H\u2082SO\u2084?",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "-2"
+        ],
+        "correctOption": 2,
+        "explanation": "The oxidation state of oxygen is usually -2, and hydrogen is +1. Since the overall charge of the molecule is 0, the sulfur must have an oxidation state of +6 to balance the charges."
+    },
+    {
+        "question": "Which of the following is the strongest intermolecular force present in liquid ammonia (NH\u2083)?",
+        "options": [
+            "London dispersion forces",
+            "dipole-dipole interactions",
+            "hydrogen bonding",
+            "ionic bonding"
+        ],
+        "correctOption": 2,
+        "explanation": "Ammonia has a hydrogen atom directly bonded to a highly electronegative nitrogen atom, making it capable of hydrogen bonding, the strongest intermolecular force."
+    },
+    {
+        "question": "What is the product of the following reaction: CH\u2083CH\u2082OH + H\u2082SO\u2084 (conc.) \u2192 ?",
+        "options": [
+            "CH\u2083CH\u2082OCH\u2082CH\u2083",
+            "CH\u2083CH\u2082COOH",
+            "CH\u2082=CH\u2082",
+            "CH\u2083CH\u2082Cl"
+        ],
+        "correctOption": 2,
+        "explanation": "This is a dehydration reaction. Concentrated sulfuric acid acts as a dehydrating agent, removing water from ethanol to form ethene (CH\u2082=CH\u2082). "
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of a catalyst?",
+        "options": [
+            "It increases the rate of a reaction.",
+            "It is consumed in the reaction.",
+            "It lowers the activation energy of the reaction.",
+            "It does not affect the equilibrium position of the reaction."
+        ],
+        "correctOption": 1,
+        "explanation": "Catalysts are not consumed in the reaction. They participate in the reaction but are regenerated at the end, allowing them to catalyze multiple reactions."
+    },
+    {
+        "question": "What is the hybridization of the central carbon atom in the molecule CH\u2082O?",
+        "options": [
+            "sp",
+            "sp\u00b2",
+            "sp\u00b3",
+            "sp\u00b3d"
+        ],
+        "correctOption": 1,
+        "explanation": "The central carbon atom in formaldehyde (CH\u2082O) forms three sigma bonds (two with hydrogen and one with oxygen) and one pi bond with oxygen. This requires three hybrid orbitals, leading to sp\u00b2 hybridization."
+    },
+    {
+        "question": "Which of the following is an example of a Lewis acid?",
+        "options": [
+            "NH\u2083",
+            "H\u2082O",
+            "BF\u2083",
+            "OH\u207b"
+        ],
+        "correctOption": 2,
+        "explanation": "Lewis acids are electron acceptors. BF\u2083 has an incomplete octet and can accept an electron pair, making it a Lewis acid."
+    },
+    {
+        "question": "What is the molarity of a solution prepared by dissolving 2.5 g of NaOH (MW = 40 g/mol) in enough water to make 500 mL of solution?",
+        "options": [
+            "0.05 M",
+            "0.10 M",
+            "0.25 M",
+            "0.50 M"
+        ],
+        "correctOption": 1,
+        "explanation": "Molarity is calculated as moles of solute per liter of solution. First, find the moles of NaOH: 2.5 g / 40 g/mol = 0.0625 mol. Then, calculate the molarity: 0.0625 mol / 0.5 L = 0.125 M."
+    },
+    {
+        "question": "Which of the following is a strong electrolyte?",
+        "options": [
+            "CH\u2083COOH",
+            "H\u2082O",
+            "NH\u2083",
+            "NaCl"
+        ],
+        "correctOption": 3,
+        "explanation": "Strong electrolytes completely dissociate into ions in solution. NaCl is a strong electrolyte, while the others are weak electrolytes or non-electrolytes."
+    },
+    {
+        "question": "What is the standard enthalpy change (\u0394H\u00b0) for the following reaction: 2H\u2082(g) + O\u2082(g) \u2192 2H\u2082O(l)?",
+        "options": [
+            "+572 kJ/mol",
+            "-572 kJ/mol",
+            "+286 kJ/mol",
+            "-286 kJ/mol"
+        ],
+        "correctOption": 1,
+        "explanation": "The standard enthalpy change for the formation of water from its elements is -286 kJ/mol. Since the reaction produces two moles of water, the total enthalpy change is -572 kJ/mol."
+    },
+    {
+        "question": "What is the pH of a 0.01 M solution of HCl?",
+        "options": [
+            "1",
+            "2",
+            "12",
+            "13"
+        ],
+        "correctOption": 1,
+        "explanation": "HCl is a strong acid, so it completely dissociates in solution. The H\u207a, is equal to the initial concentration of HCl, which is 0.01 M. The pH is calculated as -logH\u207a,, so the pH is 2."
+    },
+    {
+        "question": "Which of the following is an example of an endothermic reaction?",
+        "options": [
+            "Combustion of methane",
+            "Neutralization of a strong acid with a strong base",
+            "Melting of ice",
+            "Formation of water from hydrogen and oxygen"
+        ],
+        "correctOption": 2,
+        "explanation": "Endothermic reactions absorb heat from the surroundings. Melting of ice requires energy to break the hydrogen bonds holding the water molecules in a solid state."
+    },
+    {
+        "question": "What is the electron configuration of a potassium atom (K)?",
+        "options": [
+            "1s\u00b22s\u00b22p\u20763s\u00b23p\u20764s\u00b9",
+            "1s\u00b22s\u00b22p\u20763s\u00b23p\u20764s\u00b2",
+            "1s\u00b22s\u00b22p\u20763s\u00b23p\u20763d\u00b9",
+            "1s\u00b22s\u00b22p\u20763s\u00b23p\u20764p\u00b9"
+        ],
+        "correctOption": 0,
+        "explanation": "Potassium is in the first column of the periodic table, so it has one valence electron in the 4s orbital. The full electron configuration is 1s\u00b22s\u00b22p\u20763s\u00b23p\u20764s\u00b9."
+    },
+    {
+        "question": "Which of the following is a characteristic of a buffer solution?",
+        "options": [
+            "It resists changes in pH upon addition of a strong acid or base.",
+            "It has a high concentration of both a weak acid and its conjugate base.",
+            "It has a very low pH.",
+            "It is always composed of a strong acid and its conjugate base."
+        ],
+        "correctOption": 0,
+        "explanation": "Buffer solutions resist changes in pH because they contain a weak acid and its conjugate base, which can neutralize added acids or bases."
+    },
+    {
+        "question": "What is the name of the functional group present in the molecule CH\u2083CH\u2082CHO?",
+        "options": [
+            "Alcohol",
+            "Ketone",
+            "Aldehyde",
+            "Carboxylic acid"
+        ],
+        "correctOption": 2,
+        "explanation": "The molecule CH\u2083CH\u2082CHO contains an aldehyde functional group, characterized by the presence of a carbonyl group (C=O) at the end of a carbon chain."
+    },
+    {
+        "question": "What is the major product of the following reaction: CH\u2083CH\u2082CH\u2082Br + NaOH \u2192 ?",
+        "options": [
+            "CH\u2083CH\u2082CH\u2082OH",
+            "CH\u2083CH\u2082CH\u2082Na",
+            "CH\u2083CH=CH\u2082",
+            "CH\u2083CH\u2082CH\u2082Cl"
+        ],
+        "correctOption": 0,
+        "explanation": "This is a nucleophilic substitution reaction. The hydroxide ion (OH\u207b) acts as a nucleophile, replacing the bromine atom to form propanol (CH\u2083CH\u2082CH\u2082OH). "
+    },
+    {
+        "question": "Which of the following statements about entropy is TRUE?",
+        "options": [
+            "Entropy is a measure of the disorder of a system.",
+            "Entropy always increases in a spontaneous process.",
+            "Entropy is a state function.",
+            "All of the above"
+        ],
+        "correctOption": 3,
+        "explanation": "All of the statements are true. Entropy is a measure of disorder, increases in spontaneous processes, and is a state function, meaning it only depends on the initial and final states of the system."
+    },
+    {
+        "question": "What is the molecular geometry of the molecule SF\u2084?",
+        "options": [
+            "Linear",
+            "Tetrahedral",
+            "Trigonal bipyramidal",
+            "See-saw"
+        ],
+        "correctOption": 3,
+        "explanation": "SF\u2084 has four bonding pairs and one lone pair of electrons around the central sulfur atom. This leads to a see-saw molecular geometry."
+    },
+    {
+        "question": "Which of the following is a characteristic of a radioactive isotope?",
+        "options": [
+            "It has an unstable nucleus.",
+            "It emits radiation.",
+            "It can be used in medical imaging.",
+            "All of the above"
+        ],
+        "correctOption": 3,
+        "explanation": "Radioactive isotopes have unstable nuclei, emit radiation, and have various applications, including medical imaging."
+    },
+    {
+        "question": "What is the IUPAC name for the following compound: CH\u2083CH\u2082CH\u2082CH\u2082COOH?",
+        "options": [
+            "Butanoic acid",
+            "Pentanoic acid",
+            "Hexanoic acid",
+            "Heptanioc acid"
+        ],
+        "correctOption": 1,
+        "explanation": "The compound has a five-carbon chain with a carboxylic acid functional group at the end. Therefore, its IUPAC name is pentanoic acid."
+    }
+]

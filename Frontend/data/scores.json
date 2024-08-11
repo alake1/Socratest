@@ -1,0 +1,12 @@
+[
+      {"topic": "Arrays", "score": "85%"},
+      {"topic": "Linked Lists", "score": "92%"},
+      {"topic": "Stacks", "score": "78%"},
+      {"topic": "Queues", "score": "88%"},
+      {"topic": "Trees", "score": "95%"},
+      {"topic": "Graphs", "score": "81%"},
+      {"topic": "Hash Tables", "score": "90%"},
+      {"topic": "Heaps", "score": "76%"},
+      {"topic": "Sorting Algorithms", "score": "84%"},
+      {"topic": "Dynamic Programming", "score": "93%"}
+    ]

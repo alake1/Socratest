@@ -1,0 +1,126 @@
+input:where([type="checkbox"], [type="radio"]) {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 22px;
+    height: 22px;
+    margin: calc(0.75em - 11px) 0.5rem 0 0;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    background: transparent no-repeat center center;
+  }
+  
+  input:where([type="checkbox"], [type="radio"]):where(
+      :active:not(:disabled),
+      :focus
+    ) {
+    border-color: #696;
+    outline: none;
+  }
+  
+  /* input:where([type="checkbox"], [type="radio"]):disabled{
+    background : #eee;
+  } */
+  
+  input[type="radio"]:checked {
+    background-image: url("./assets/icon/checkbox.svg");
+  }
+  
+  .question-block {
+    width: 50vw;
+    margin: auto;
+  }
+  .question-block:not(.horizontal-rule) {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  .question-block.description {
+    font-size: 18px;
+    /* text-align: center; */
+  }
+  
+  .completed-answer {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .success-answer {
+    color: lightgreen;
+    font-weight: bold;
+  }
+  
+  .error-answer {
+    color: tomato;
+    font-weight: bold;
+  }
+  .results-message {
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 80%;
+    margin-top: 5px;
+    font-weight: 400;
+    font-size: 80%;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  }
+  .results-message.success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+  }
+  .results-message.error {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+  }
+  
+  .form-input {
+    padding: 7px 20px;
+  }
+  .form-input:disabled {
+    font-weight: normal;
+    color: lightgrey;
+  }
+  
+  .block-footer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .block-footer.completed {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+  .block-footer.incomplete {
+    width: max-content;
+    float: right;
+  }
+  .score {
+    padding: 7.5px 15px;
+    background-color: darkslategray;
+  }
+  
+  .auth-button {
+    background-color: rgba(36,134,185,1);
+    border: 1px solid #fff;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+  }
+  
+  .auth-button:hover {
+    color: rgba(36,134,185,1);
+    background-color: #fff;
+  }
+  
+  .auth-button-container {
+    display: flex;
+    justify-content: center;
+  }
